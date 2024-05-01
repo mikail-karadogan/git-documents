@@ -12,4 +12,8 @@ function trial3() {
 function trial4() {
     return 4;
 }
+
+function trial5() {
+    return 5;
+}
 console.log(trial());
